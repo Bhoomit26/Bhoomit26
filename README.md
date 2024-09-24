@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Bhoomit26
+<h1 align="center">Hi 👋, I'm Bhoomit Prajapati </h1>
+
 - 👀 I’m interested in data analyst 
 - 🌱 I’m currently learning R studio,SPSS 
 - 💞️ I’m looking to collaborate on opportunity 
