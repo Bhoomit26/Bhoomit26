@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Python,SQL 
 
-- 📫 How to reach me @bhoomitprajapati@gmail.com 
+- 📫 You can contact me at @bhoomitprajapati@gmail.com 
 
 <!---
 Bhoomit26/Bhoomit26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
