@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Bhoomit Prajapati </h1>
-
-- 👀 I’m interested in data analyst 
-- 🌱 I’m currently learning R studio,SPSS 
-- 💞️ I’m looking to collaborate on opportunity 
+<h1 align="center">Hello 👋, I'm Bhoomit Prajapati </h1>
+<h3 align="center">I'm an aspiring data analyst with a keen interest in statistics, constantly seeking opportunities to learn and grow. I believe every dataset holds secrets, and I can uncover those secrets through every analysis I conduct!</h3>
+- 
+- 🌱 I’m currently learning Python,SQL  
 - 📫 How to reach me @bhoomitprajapati@gmail.com 
 
 <!---
